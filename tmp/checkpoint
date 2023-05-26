@@ -1,0 +1,2 @@
+model_checkpoint_path: "checkpoint_fine_tuning_shuffle_pt_big_lr"
+all_model_checkpoint_paths: "checkpoint_fine_tuning_shuffle_pt_big_lr"
