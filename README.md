@@ -17,3 +17,13 @@ To test the code present on this repository, the following packages are required
 - scikit-learn 1.1.3
 
 Note that the versions proposed are the ones used for the software developpement and that other versions may or may not work.
+
+## Reference to the work
+If you wish to use this code in your own work, please include the following citation:
+
+@inproceedings{bary2024designing,
+  title={Designing Pre-training Datasets from Unlabeled Data for EEG Classification with Transformers},
+  author={Bary, Tim and Macq, Beno{\^\i}t},
+  booktitle={22nd IEEE Mediterranean Electrotechnical Conference (MELECON 2024)},
+  year={2024}
+}
